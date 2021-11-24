@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\..\\Week 9 - Restful APIs\\NodeRestAPI"
+		},
+		{
+			"path": "..\\.."
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
